@@ -1,4 +1,15 @@
 # NewsNow
+
+
+## game trend
+
+## hashtags
+
+## url keyword
+
+## app store
+
+
 ![](screenshots/preview-1.png)
 
 ![](screenshots/preview-2.png)
